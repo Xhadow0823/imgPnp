@@ -1,3 +1,7 @@
+"""姿態估計展示。
+資料請放置於 dataset/ 目錄中
+"""
+
 import cv2
 import numpy as np
 import os
